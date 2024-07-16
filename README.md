@@ -1,2 +1,2 @@
-# Demo Hading
+# Demo Heading
 Description
